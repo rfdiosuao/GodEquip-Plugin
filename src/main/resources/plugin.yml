@@ -1,0 +1,12 @@
+name: GodEquip
+version: '${project.version}'
+main: com.solo.godequip.GodEquipPlugin
+api-version: '1.20'
+description: Adds the Singularity equipment set.
+authors: [ Solo ]
+
+commands:
+  godset:
+    description: Grants the Singularity equipment set.
+    usage: /godset
+    permission: godequip.admin

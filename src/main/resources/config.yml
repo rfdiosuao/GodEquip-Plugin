@@ -1,0 +1,8 @@
+# GodEquip Configuration
+# 终焉奇点 插件配置文件
+
+# 是否允许丢弃神级装备 (true = 允许, false = 禁止)
+allow-drop: false
+
+# 是否允许将神级装备放入容器/箱子 (true = 允许, false = 禁止)
+allow-storage: false
