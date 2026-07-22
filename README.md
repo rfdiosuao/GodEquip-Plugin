@@ -1,3 +1,5 @@
+<p align="center"><strong>简体中文</strong> · <a href="README.en.md">English</a></p>
+
 # 🌌 终焉奇点 (The Singularity) - GodEquip Plugin
 
 > **“当数值失去了意义，法则便只是神明手中的玩物。”**
